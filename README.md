@@ -23,7 +23,7 @@ En desarrollo.
 ## Instalación
 bash
 # Clonar el repositorio
-git clone https://github.com/Ing-ZulmaSalas/sigg-finca-las-mercedes.git
+git clone (https://github.com/mariajulianaestupinan04-cpu/sigg-finca-las-mercedes-juliana.git)
 
 # Entrar al directorio
 cd sigg-finca-las-mercedes
